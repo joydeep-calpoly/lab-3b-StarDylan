@@ -1,4 +1,4 @@
-package lab_3c;
+package lab;
 
 public class Service {
 
